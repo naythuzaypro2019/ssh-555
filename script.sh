@@ -25,8 +25,7 @@ echo "
 <h3><font color='green'>--- ۩ SERVER BY ④ ⍤⃝🌻④ ۩ ---
 </font></h3>
 
-<h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
-</font></h4>
+<h4><font color='cyan'>Telegram Channel >> mmmmmmmmm
 
 <h4><font color='blue'>Telegram Channel >> https://t.me/nkka_404
 </font></h4>
